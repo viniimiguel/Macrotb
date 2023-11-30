@@ -18,6 +18,7 @@ int main()
             Sleep(200);
             break;
         }
+        Sleep(50);
 
     }
     Sleep(2000);
