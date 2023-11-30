@@ -1,0 +1,95 @@
+
++-------+--------+
+| Tecla | Código |
++-------+--------+
+|   A   |  0x41  |
+|   B   |  0x42  |
+|   C   |  0x43  |
+|   D   |  0x44  |
+|   E   |  0x45  |
+|   F   |  0x46  |
+|   G   |  0x47  |
+|   H   |  0x48  |
+|   I   |  0x49  |
+|   J   |  0x4A  |
+|   K   |  0x4B  |
+|   L   |  0x4C  |
+|   M   |  0x4D  |
+|   N   |  0x4E  |
+|   O   |  0x4F  |
+|   P   |  0x50  |
+|   Q   |  0x51  |
+|   R   |  0x52  |
+|   S   |  0x53  |
+|   T   |  0x54  |
+|   U   |  0x55  |
+|   V   |  0x56  |
+|   W   |  0x57  |
+|   X   |  0x58  |
+|   Y   |  0x59  |
+|   Z   |  0x5A  |
++-------+--------+
++--------------------------------+--------+             
+| Tecla                          | Código |
++--------------------------------+--------+
+| Botão do mouse esquerdo        | 0x01   |
+| Botão do mouse direito         | 0x02   |
+| Cancelar                       | 0x03   |
+| Botão do mouse do meio         | 0x04   |
+| Botão do mouse X1              | 0x05   |
+| Botão do mouse X2              | 0x06   |
+| Voltar                         | 0x08   |
+| Tab                            | 0x09   |
+| Enter                          | 0x0D   |
+| Shift                          | 0x10   |
+| Ctrl                           | 0x11   |
+| Alt                            | 0x12   |
+| Pause                          | 0x13   |
+| Caps Lock                      | 0x14   |
+| Escape                         | 0x1B   |
+| Espaço                         | 0x20   |
+| Page Up                        | 0x21   |
+| Page Down                      | 0x22   |
+| End                            | 0x23   |
+| Home                           | 0x24   |
+| Seta para a esquerda           | 0x25   |
+| Seta para cima                 | 0x26   |
+| Seta para a direita            | 0x27   |
+| Seta para baixo                | 0x28   |
+| Select                         | 0x29   |
+| Print                          | 0x2A   |
+| Execute                        | 0x2B   |
+| Imprimir tela                  | 0x2C   |
+| Inserir                        | 0x2D   |
+| Excluir                        | 0x2E   |
+| Ajuda                          | 0x2F   |
+| 0-9                            | 0x30-0x39 |
+| A-Z                            | 0x41-0x5A |
+| Janelas                        | 0x5B   |
+| Menu                           | 0x5D   |
+| Números no teclado (0-9)       | 0x60-0x69 |
+| *                              | 0x6A   |
+| +                              | 0x6B   |
+| Separador                      | 0x6C   |
+| -                              | 0x6D   |
+| .                              | 0x6E   |
+| /                              | 0x6F   |
+| Teclas de função (F1-F24)      | 0x70-0x87 |
+| Num Lock                       | 0x90   |
+| Scroll Lock                    | 0x91   |
+| Tecla à esquerda do número 1   | 0xC0   |
+| ;                              | 0xBA   |
+| =                              | 0xBB   |
+| ,                              | 0xBC   |
+| - (tecla do traço)             | 0xBD   |
+| . (ponto)                      | 0xBE   |
+| / (barra)                      | 0xBF   |
+| ` (acento grave)               | 0xC0   |
+| [                              | 0xDB   |
+| \                              | 0xDC   |
+| ]                              | 0xDD   |
+| '                              | 0xDE   |
+| Tecla à direita do Enter       | 0xE5   |
++--------------------------------+--------+
+
+
