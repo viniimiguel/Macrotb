@@ -10,23 +10,21 @@ class Mouse{
         int x;
         int y;
         int getPoint();
-        void xy();
     private:
 };
 
-void Mouse::xy(){
-    std::cout << " x " << x << " y " << y << std::endl;
-}
+
 int Mouse::getPoint(){
     POINT cursorPoint;
     if(GetCursorPos(&cursorPoint)){
         std::cout << "Sua localizacao no eixo x e: " << cursorPoint.x << ", sua localizacao no eixo y e: " << cursorPoint.y << std::endl;
+        std::cout << "\n" << std::endl;
         x=cursorPoint.x;
         y=cursorPoint.y;
         return 0;
     }
     else{
-        std::cout << "nao foi possivel localizar a localizacao do seu mouse.";
+        std::cout << "nao foi possivel localizar a localizacao do seu mouse.\n";
         return -1;
     }
 }
@@ -37,15 +35,11 @@ class Mc:public Mouse{
             getPoint();
         }
         void macroClick();
-        void mxy();
         void kpress();
     private:
 
 };
 
-void Mc::mxy(){
-    std::cout << " x " << x << " y " << y << std::endl;
-}
 
 void Mc::macroClick() {
     std::vector<std::pair<int, int>> offsets = {
