@@ -1,5 +1,5 @@
 # Macrotb
-[**Baixar Arquivo**](Atloot.zip)
+[**Baixar Arquivo**](Atloot.rar)
 
 https://github.com/viniimiguel/Macrotb/assets/144070822/69dd3f20-d14c-48bd-8fd4-71519e04365c
 
