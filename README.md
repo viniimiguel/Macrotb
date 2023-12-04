@@ -1,4 +1,7 @@
 # Macrotb
+### Para baixar o arquivo basta apenas clicar no link abaixo e depois clicar ou em "View Raw" ou no icone de download.
+![image](https://github.com/viniimiguel/Macrotb/assets/144070822/f45b883b-e9d1-4b28-bcd3-d388a3ca33a0)
+
 [**Baixar Arquivo**](Atloot.rar)
 
 https://github.com/viniimiguel/Macrotb/assets/144070822/69dd3f20-d14c-48bd-8fd4-71519e04365c
